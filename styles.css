@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+
+*{
+    font-family: 'Play';
+    color: #EDEDED;
+}
+
+#mynav{
+    background-color: #DA0037;
+}
+
+.abouttitle{
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.myaboutus{
+    text-align: justify;
+}
+
+body{
+    background-color: #1E1E24;
+}
+
+.myform{
+    background-color: #444444;
+    width: 35%;
+}
+
+.form-text{
+    color: #EDEDED;
+}
+
+option{
+    color: #1E1E24;
+}
+
+.btn{
+    background-color: #DA0037;
+    color: #1E1E24;
+}
